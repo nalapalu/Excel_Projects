@@ -47,7 +47,9 @@ The final story provides stakeholders with an intuitive and comprehensive view o
 
 #### Results & Insights:
 
-![alt text](Screenshot.png)
+<p align="center">
+  <img src="Screenshot.png" width="500">
+</p>
 
 - The total churn rate is 26.86%, with competitors offering better deals as the primary cause.  
 - California shows the highest churn rate, particularly among customers with month-to-month contracts.  
