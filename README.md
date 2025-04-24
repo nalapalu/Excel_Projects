@@ -14,7 +14,7 @@ Welcome to my Excel Projects repository! This collection showcases various Excel
 
 ## Overview
 
-This repository features Tableau worksheets and related files for portfolio projects I’ve completed. These projects span various industries and use cases, highlighting:
+This repository features Excel worksheets and related files for portfolio projects I’ve completed. These projects span various industries and use cases, highlighting:
 
 - Data Preparation  
 - Data Visualization  
@@ -26,7 +26,7 @@ This repository features Tableau worksheets and related files for portfolio proj
 
 ## Projects
 
-### 1. [**Analyzing Customer Churn with Excel**](https://github.com/nalapalu/Tableau_Projects/tree/main/Analysing-Customer-Churn-with-Tableau)
+### 1. [**Analyzing Customer Churn with Excel**](https://github.com/nalapalu/ExcelProjects)
 
 #### Objectives:
 This project uses Excel to analyze customer churn for a telecom company, Databel, aiming to uncover actionable insights about customer behavior. Understanding churn goes beyond measuring the churn rate; it involves identifying root causes and crafting strategies to reduce customer attrition.
