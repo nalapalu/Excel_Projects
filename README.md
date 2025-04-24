@@ -26,7 +26,7 @@ This repository features Excel worksheets and related files for portfolio projec
 
 ## Projects
 
-### 1. [**Analyzing Customer Churn with Excel**](https://github.com/nalapalu/ExcelProjects)
+### 1. [**Analyzing Customer Churn with Excel**](https://github.com/nalapalu/Excel_Projects/blob/main/Customer_Churn/Customer_churn.xlsx)
 
 #### Objectives:
 This project uses Excel to analyze customer churn for a telecom company, Databel, aiming to uncover actionable insights about customer behavior. Understanding churn goes beyond measuring the churn rate; it involves identifying root causes and crafting strategies to reduce customer attrition.
@@ -44,7 +44,11 @@ The dataset contains information on customers (e.g., age, contract type, group p
 
 The final story provides stakeholders with an intuitive and comprehensive view of plots, figures, and text fields to support better business decisions.
 
+
 #### Results & Insights:
+
+![alt text](Screenshot.png)
+
 - The total churn rate is 26.86%, with competitors offering better deals as the primary cause.  
 - California shows the highest churn rate, particularly among customers with month-to-month contracts.  
 - Older customers are more likely to churn, while younger individuals and those in family/group plans exhibit lower rates.  
